@@ -1,4 +1,4 @@
-Travis-CI: [![Build Status](https://travis-ci.com/nasa/cFS.svg)](https://travis-ci.com/nasa/cFS)
+Travis-CI: [![Build Status](https://api.travis-ci.org/ncesnagoya/cFS.svg)](https://travis-ci.org/ncesnagoya/cFS)
 
 # Core Flight System - BUNDLE
 
